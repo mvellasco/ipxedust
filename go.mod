@@ -1,4 +1,4 @@
-module github.com/tinkerbell/ipxedust
+module github.com/mvellasco/ipxedust
 
 go 1.22.9
 
